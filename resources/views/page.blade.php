@@ -12,7 +12,6 @@
 
     <title>{{ config('app.name') }} - Play Microscope Online</title>
 
-    <script src="https://cdn.usefathom.com/script.js" data-site="RHQXBEGX" included-domains="utgars-chronicles.app" defer></script>
 </head>
 <body class="flex flex-col h-full antialiased">
     <main class="flex-1">

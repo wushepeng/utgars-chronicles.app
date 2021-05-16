@@ -13,7 +13,6 @@
 
     <title>{{ config('app.name') }}</title>
 
-    <script src="https://cdn.usefathom.com/script.js" data-site="RHQXBEGX" included-domains="utgars-chronicles.app" defer></script>
     @routes
 </head>
 <body class="flex flex-col h-full antialiased">
