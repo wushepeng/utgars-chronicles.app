@@ -6,7 +6,7 @@ Source code of https://utgars-chronicles.app, a free web app to help you play Mi
 
 ### Pre-requisites
 
-* PHP ≥ 7.4
+* PHP ≥ 8
 * Composer
 * MariaDB (or another database engine supported by Laravel 8)
 * Node.js
